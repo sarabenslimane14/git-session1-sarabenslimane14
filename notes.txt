@@ -1,0 +1,2 @@
+Personal development notes.
+This project practices Git version control, commits, branches, and GitHub synchronization.
