@@ -28,3 +28,5 @@ console.log("Hello, Git!");
 ## Useful Link
 
 [GitHub](https://github.com/)
+
+This repository documents my progress learning Git and GitHub.
